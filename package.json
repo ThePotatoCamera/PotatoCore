@@ -1,0 +1,23 @@
+{
+  "name": "botcore",
+  "version": "1.0.0",
+  "description": "A core for Discord bots",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thepotatocamera/botcore.git"
+  },
+  "author": "ThePotatoCamera",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thepotatocamera/botcore/issues"
+  },
+  "homepage": "https://github.com/thepotatocamera/botcore#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^8.2.0"
+  }
+}
