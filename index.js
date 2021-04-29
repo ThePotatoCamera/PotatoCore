@@ -10,7 +10,7 @@ intents.add('GUILDS', 'GUILD_MEMBERS', 'GUILD_BANS', 'GUILD_EMOJIS', 'GUILD_INTE
 // We set the bot initial prensecee"
 const initActivity = {
     "name": "BotCore",
-    "type": "COMPETING",
+    "type": "STREAMING",
     "url": "https://www.github.com/ThePotatoCamera/BotCore" 
 }
 const initPresenceData = {
