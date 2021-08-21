@@ -6,4 +6,6 @@ This repo will try to be as updated as possible to comply with the newest versio
 
 **Please, avoid making pull requests for your bots!** __This is not for hosting your bots__
 
-#
+# Archiving notice
+
+Archived due to large changes to the codebase of discordjs, making this project needing a rewrite from 0.
